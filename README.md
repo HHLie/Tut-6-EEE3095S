@@ -24,7 +24,7 @@ Once the device is updated, you should see this in your logs:
 ![log output](/img/log-output.png)
 
 Then in your browser you should be able to open the device URL and see the message.
-
+![msg](/img/msg.png)
 
 [balena-link]:https://balena.io/
 [signup-page]:https://dashboard.balena-cloud.com/signup
